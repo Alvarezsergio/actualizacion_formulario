@@ -1,0 +1,22 @@
+:root {
+  --blue-color: #0b5ed7;
+  --yellow-color: #ffcf3f;
+  --bg-form-color: rgb(34, 33, 33);
+  --bg-input-color: rgb(59, 56, 56);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightgray;
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 1rem;
+  font-family: sans-serif;
+  text-align: center;
+}
+
